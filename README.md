@@ -25,10 +25,8 @@ A detailed PDF report is available in the `report/` folder.
 
 ## 📊 Example Visuals
 ![image](https://github.com/user-attachments/assets/15898f26-ec48-4708-bc55-a608714c7849)
-
-
-
+![image](https://github.com/user-attachments/assets/45403c3a-d868-4860-bcb7-5f75078ef492)
 
 ## © Author
 Created by Veronica Donelli, 2025 
-LinkedIn: [your profile link]  
+LinkedIn: https://www.linkedin.com/in/veronica-donelli-3926bb208/  
