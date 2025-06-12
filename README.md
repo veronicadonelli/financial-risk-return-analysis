@@ -24,6 +24,8 @@ A detailed PDF report is available in the `report/` folder.
 4. Run the notebook in `notebooks/`
 
 ## 📊 Example Visuals
+![image](https://github.com/user-attachments/assets/15898f26-ec48-4708-bc55-a608714c7849)
+
 
 
 
