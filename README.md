@@ -1,12 +1,12 @@
 # Financial Risk and Return Analysis
 
-This project analyzes the historical risk and return profiles of selected financial assets benchmarked against the S&P 500 (^GSPC), using Python and real market data from Yahoo Finance.
+This study examines the historical risk and return characteristics of specific financial assets, comparing them to the S&P 500 (^GSPC). The analysis utilizes Python and actual market data sourced from Yahoo Finance.
 
 ## Objectives
-- Compute annualized returns, volatility, beta coefficients, and Value at Risk (VaR)
-- Compare assets using normalized price trends and risk-return scatter plots
-- Generate distributional insights with histograms and KDEs
-
+- Calculate yearly returns, volatility, beta values, and Value at Risk (VaR)
+- Evaluate assets through standardized price trends and risk-return scatter plots
+- Produce distributional insights utilizing histograms and Kernel Density Estimates (KDEs)
+- 
 ## Technologies
 - Python (pandas, numpy, matplotlib, seaborn, yfinance, scikit-learn)
 - Google Colab
@@ -15,13 +15,13 @@ This project analyzes the historical risk and return profiles of selected financ
 ## Folder Structure
 
 ## Report
-A detailed PDF report is available in the `report/` folder.
+A comprehensive PDF report can be found in the `report/` directory.
 
 ## How to Run
-1. Clone the repo
-2. Create a virtual environment
-3. Install dependencies: `pip install -r requirements.txt`
-4. Run the notebook in `notebooks/`
+1. Duplicate the repository
+2. Establish a virtual environment
+3. Install the necessary packages: `pip install -r requirements.txt`
+4. Execute the notebook located in `notebooks/`
 
 ## Example Visuals
 ![image](https://github.com/user-attachments/assets/15898f26-ec48-4708-bc55-a608714c7849)
