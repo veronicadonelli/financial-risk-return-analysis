@@ -6,7 +6,7 @@ This study examines the historical risk and return characteristics of specific f
 - Calculate yearly returns, volatility, beta values, and Value at Risk (VaR)
 - Evaluate assets through standardized price trends and risk-return scatter plots
 - Produce distributional insights utilizing histograms and Kernel Density Estimates (KDEs)
-- 
+  
 ## Technologies
 - Python (pandas, numpy, matplotlib, seaborn, yfinance, scikit-learn)
 - Google Colab
