@@ -1,4 +1,4 @@
-# Financial Risk and Return Analysis
+# Financial risk and return analysis
 
 This study examines the historical risk and return characteristics of specific financial assets, comparing them to the S&P 500 (^GSPC). The analysis utilizes Python and actual market data sourced from Yahoo Finance.
 
@@ -12,18 +12,18 @@ This study examines the historical risk and return characteristics of specific f
 - Google Colab
 - LaTeX (Overleaf)
 
-## Folder Structure
+## Folder structure
 
 ## Report
 A comprehensive PDF report can be found in the `report/` directory.
 
-## How to Run
+## How to run
 1. Duplicate the repository
 2. Establish a virtual environment
 3. Install the necessary packages: `pip install -r requirements.txt`
 4. Execute the notebook located in `notebooks/`
 
-## Example Visuals
+## Example visuals
 ![image](https://github.com/user-attachments/assets/15898f26-ec48-4708-bc55-a608714c7849)
 ![image](https://github.com/user-attachments/assets/45403c3a-d868-4860-bcb7-5f75078ef492)
 
