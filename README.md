@@ -24,8 +24,9 @@ A comprehensive PDF report can be found in the `report/` directory.
 4. Execute the notebook located in `notebooks/`
 
 ## Example visuals
-![image](https://github.com/user-attachments/assets/15898f26-ec48-4708-bc55-a608714c7849)
-![image](https://github.com/user-attachments/assets/45403c3a-d868-4860-bcb7-5f75078ef492)
+[View closing_prices.pdf](figures/closing_prices.pdf)
+[View risk_return_scatter.pdf](figures/risk_return_scatter.pdf)
+
 
 ## © Author
 Created by Veronica Donelli, 2025 
